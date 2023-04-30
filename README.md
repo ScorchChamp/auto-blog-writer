@@ -26,22 +26,8 @@ Write a lot of blogs, all at once using chatGPT API
 
 ## Features
 
-
-
--
--
--
-
-
-## Installation
-
-```cmd
-npm install
-```
-
-## Usage
-
-TODO: Add usage instructions
+- Write posts about a specific subject.
+- Change the prompt using standard.txt
 
 ## Contributing
 
